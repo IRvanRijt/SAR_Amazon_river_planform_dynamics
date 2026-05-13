@@ -1,10 +1,5 @@
 # Assessment of River Planform Dynamics in the Amazon Basin using Sentinel-1 SAR Data (2017-2025)  — Research Code Repository
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
----
-
 ## 1. Introduction
 
 This repository contains all code used for data acquisition, preprocessing, analysis, and validation in the MSc thesis research on Amazon sub-basin river planform dynamics. The research was conducted at **Wageningen University & Research (WUR)**, 2026.
@@ -185,12 +180,12 @@ install.packages(c("tidyverse", "terra", "ggplot2"))
 
 If you use this code in your own research, please cite the associated paper:
 
-> **[Author(s)]** (*2026*). *[Full paper title]*. *[Journal name]*, [Volume]([Issue]), [Pages]. [https://doi.org/XXXXXXXX](https://doi.org/XXXXXXXX)
+> **[Ivar van Rijt, Johannes Balling, Johannes Reiche]** (*2026*). *Assessment of River Planform Dynamics in the Amazon Basin using Sentinel-1 SAR Data (2017-2025) *. *[Journal name]*, [Volume]([Issue]), [Pages]. [https://doi.org/XXXXXXXX](https://doi.org/XXXXXXXX)
 
 To cite the code repository directly:
 
 > **IRvanRijt** (2026). *Assessment of River Planform Dynamics in the Amazon Basin using Sentinel-1 SAR Data (2017-2025)  — Research Code Repository
-* (Version 1.0). Zenodo. [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+* (Version 1.0). (https://doi.org/XXXXXXXX)
 
 ---
 

@@ -96,7 +96,7 @@ function maskBorderNew(image) {
   );
 }
 
-// 1.4 --- Function to handle errors at beginning and end of images ---
+// 1.4 --- Function to handle errors at beginning and end of images, by Andreas Vollrath and Bart Slagter ---
 
 // Detects borders by comparing image footprint geometry with orbit slice metadata.
 function createSceneStartEndMask(image, bufferMeters) {
